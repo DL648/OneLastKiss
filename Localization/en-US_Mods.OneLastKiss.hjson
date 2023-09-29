@@ -1,0 +1,13 @@
+Projectiles.TarDaLia.DisplayName: Tar Da Lia
+
+Keybinds: {
+	爆发.DisplayName: 爆发
+	战技.DisplayName: 战技
+}
+
+Items: {
+	TarDaLiaItem: {
+		DisplayName: Tar Da Lia Item
+		Tooltip: ""
+	}
+}
